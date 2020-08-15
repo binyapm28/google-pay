@@ -1,1 +1,1 @@
-# gpaydemo
+# google-pay
