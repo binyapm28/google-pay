@@ -1,0 +1,88 @@
+
+}
+body{
+    width: 100%;
+    height: auto;
+    align-items: center;
+    
+}
+.text-wrapper{
+    width: 100%;
+    position: relative;
+    margin-top: -10%;
+}
+.text-wrapper h1{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+/*==================================================*/
+.btn-btn{
+    background-color: white;
+}
+.button1{
+    color: black;
+    background-color: rgb(255, 255, 255));
+    padding: 17px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
+
+.Get-btn{
+    background-color:  rgb(59, 121, 236);
+    color: white;
+    border-radius: 15px;
+    border: none;
+}
+
+.new-button{
+    background-color:  rgb(59, 121, 236);
+    color: white;
+    border-radius: 15px;
+    border: none;
+    font-size: 10px;
+    font-weight: 10px;
+}
+.button1:hover{
+    background-color: rgb(59, 121, 236);
+    color: black;
+}
+.new-button:hover{
+    background-color: rgb(59, 121, 236);
+    color: black;
+}
+
+
+.image-container2 {
+    align-items: center;
+    margin-left: 10%;
+    
+}
+
+.playstore{
+    margin: 50px;
+    margin-left: 120px;
+    padding: 10;
+}
+
+.sub-container{
+    
+    background-image: url("/images/google_pay.jpg" ) ;
+    background-size: cover;
+    width: 100%;
+    height: 1oovh;
+}
+.sub-container img{
+    margin: 20px;
+}
+.services{
+    margin-left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.weoffers{
+    color: white;
+    font-weight: bolder;
+}
